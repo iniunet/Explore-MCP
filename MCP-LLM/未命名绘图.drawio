@@ -79,6 +79,9 @@
         <mxCell id="13G5GWdUg-LyLay0NVzX-31" value="AI大模型应用&lt;div&gt;调用MCP服务器&lt;div&gt;流程图&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF3333;fontFamily=Lucida Console;fontSize=18;labelBorderColor=light-dark(#ffffff, #ededed);labelBackgroundColor=default;fillColor=#F2CC8F;strokeColor=#E07A5F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="35" width="170" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="13G5GWdUg-LyLay0NVzX-33" value="玉米期货的&lt;div&gt;最新价格？&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#FF0000;fillColor=#F2CC8F;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
